@@ -4,38 +4,16 @@
     * [グローバル変数を乱用しない](part01/avoid_abusing_global_variables.md)
     * [forループを極める](part01/for_loop.md)
     * [暗黙の型変換を避ける](part01/avoid_implicit_typecast.md)
-* [Part II : Object][020]
-    * [名前空間のイロハ][021]
-    * [パブリック/プライベートを意識する][022]
-    * [モジュールパターンについて][023]
-* [Part III : Function][030]
-    * [関数のイロハ][031]
-    * [コールバック][032]
-    * [クロージャー][033]
-    * [即時関数][034]
-    * [カリー化][035]
-* [Part IV : DOM][040]
-    * [DOMのアンチパターン][041]
-    * [高速化・最適化のためのTips][042]
-
-
-[010]:part01/README.md
-[011]:part01/avoid_abusing_global_variables.md
-[012]:part01/for_loop.md
-[013]:part01/avoid_implicit_typecast.md
-
-[020]:part02/README.md
-[021]:part02/namespace.md
-[022]:part02/public_and_private.md
-[023]:part02/module_pattern.md
-
-[030]:part03/README.md
-[031]:part03/function.md
-[032]:part03/callback.md
-[033]:part03/closure.md
-[034]:part03/immediate_function.md
-[035]:part03/currying.md
-
-[040]:part04/README.md
-[041]:part04/dom_anti_pattern.md
-[042]:part04/tips_for_enhancement.md
+* [Part II : Object](part02/README.md)
+    * [名前空間のイロハ](part02/namespace.md)
+    * [パブリック/プライベートを意識する](part02/public_and_private.md)
+    * [モジュールパターンについて](part02/module_pattern.md)
+* [Part III : Function](part03/README.md)
+    * [関数のイロハ](part03/function.md)
+    * [コールバック](part03/callback.md)
+    * [クロージャー](part03/closure.md)
+    * [即時関数](part03/immediate_function.md)
+    * [カリー化](part03/currying.md)
+* [Part IV : DOM](part04/README.md)
+    * [DOMのアンチパターン](part04/dom_anti_pattern.md)
+    * [高速化・最適化のためのTips](part04/tips_for_enhancement.md)
