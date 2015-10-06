@@ -1,9 +1,9 @@
 # Summary
 
-* [Part I : Basic Tips][010]
-    * [グローバル変数を乱用しない][011]
-    * [forループを極める][012]
-    * [暗黙の型変換を避ける][013]
+* [Part I : Basic Tips](part01/README.md)
+    * [グローバル変数を乱用しない](part01/avoid_abusing_global_variables.md)
+    * [forループを極める](part01/for_loop.md)
+    * [暗黙の型変換を避ける](part01/avoid_implicit_typecast.md)
 * [Part II : Object][020]
     * [名前空間のイロハ][021]
     * [パブリック/プライベートを意識する][022]
