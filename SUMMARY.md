@@ -1,19 +1,4 @@
 # Summary
 
-* [Part I : Basic Tips](part01/README.md)
-    * [グローバル変数を乱用しない](part01/avoid_abusing_global_variables.md)
-    * [forループを極める](part01/for_loop.md)
-    * [暗黙の型変換を避ける](part01/avoid_implicit_typecast.md)
-* [Part II : Object](part02/README.md)
-    * [名前空間のイロハ](part02/namespace.md)
-    * [パブリック/プライベートを意識する](part02/public_and_private.md)
-    * [モジュールパターンについて](part02/module_pattern.md)
-* [Part III : Function](part03/README.md)
-    * [関数のイロハ](part03/function.md)
-    * [コールバック](part03/callback.md)
-    * [クロージャー](part03/closure.md)
-    * [即時関数](part03/immediate_function.md)
-    * [カリー化](part03/currying.md)
-* [Part IV : DOM](part04/README.md)
-    * [DOMのアンチパターン](part04/dom_anti_pattern.md)
-    * [高速化・最適化のためのTips](part04/tips_for_enhancement.md)
+* グローバル変数を乱用しない
+
