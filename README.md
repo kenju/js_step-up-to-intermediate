@@ -1,4 +1,4 @@
-# 中上級者になるためのJavaScript
+# [中上級者になるためのJavaScript](https://www.gitbook.com/book/kenju/js_step-up-to-intermediate/details)
 
 
 この記事は、敷居が低いもののなかなか中上級に進めず困っているJavaScript学習者の方を対象としています。よりJavaScriptに対する理解を深める際に気を付けるべき事柄、知っておくべきキーワードの提供をゴールとします。
