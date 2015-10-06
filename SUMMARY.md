@@ -12,5 +12,6 @@
 * Part III : Function
    * 関数のイロハ
    * コールバック
+   * クロージャー
 * Part IV : DOM
 
