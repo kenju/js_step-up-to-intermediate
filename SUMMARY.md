@@ -11,5 +11,6 @@
    * モジュールパターン
 * Part III : Function
    * 関数のイロハ
+   * コールバック
 * Part IV : DOM
 
