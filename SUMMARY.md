@@ -4,4 +4,5 @@
 * Part I : Basic Tips
 * Part II : Object
 * Part III : Function
+* Part IV : DOM
 
