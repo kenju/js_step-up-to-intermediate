@@ -10,5 +10,6 @@
    * パブリック/プライベートを意識する
    * モジュールパターン
 * Part III : Function
+   * 関数のイロハ
 * Part IV : DOM
 
