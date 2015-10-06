@@ -8,6 +8,7 @@
 * Part II : Object
    * 名前空間のイロハ
    * パブリック/プライベートを意識する
+   * モジュールパターン
 * Part III : Function
 * Part IV : DOM
 
