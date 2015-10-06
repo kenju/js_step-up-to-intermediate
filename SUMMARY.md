@@ -7,6 +7,7 @@
    * 暗黙の型変換を避ける
 * Part II : Object
    * 名前空間のイロハ
+   * パブリック/プライベートを意識する
 * Part III : Function
 * Part IV : DOM
 
